@@ -1,0 +1,6 @@
+{    
+	"packageUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/data",    
+	"remoteVersionUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/manifest/version.manifest",    
+	"remoteManifestUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/manifest/project.manifest",    
+	"version" : "1.0.0"
+}

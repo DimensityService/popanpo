@@ -1,0 +1,248 @@
+{    
+	"packageUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/data",    
+	"remoteVersionUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/manifest/version.manifest",    
+	"remoteManifestUrl" : "https://github.com/DimensityService/popanpo/tree/master/bibabong/manifest/project.manifest",    
+	"version" : "1.0.0",    
+
+	"assets" : {
+		"res/HelloWorld.png" : {
+			"md5" : "55ea4e952bf080f300379ec26723598b"
+		}, 
+		"res/images.plist" : {
+			"md5" : "2c4851e216eed7397de2fa16ae045bb5"
+		}, 
+		"res/images.pvr.ccz" : {
+			"md5" : "ab0ea7048938f8b8336f6ce0914ab9aa"
+		}, 
+		"src/app/managers/GameManager.luac" : {
+			"md5" : "2140d5a1174ff64ad88c6ac0e65f067c"
+		}, 
+		"src/app/managers/LuaBridgeManager.luac" : {
+			"md5" : "d818e426fb7e835be97ffd215788ab55"
+		}, 
+		"src/app/MyApp.luac" : {
+			"md5" : "297b288b58687dd07959384c33319ad0"
+		}, 
+		"src/app/views/MainScene.luac" : {
+			"md5" : "be12d895f6243e0044b529dfa7aa90fa"
+		}, 
+		"src/cocos/3d/3dConstants.luac" : {
+			"md5" : "7a25ec772056dd1226c6bfabd1e27807"
+		}, 
+		"src/cocos/cocos2d/bitExtend.luac" : {
+			"md5" : "4b0ed70a80e1003580a60491e84ffd3a"
+		}, 
+		"src/cocos/cocos2d/Cocos2d.luac" : {
+			"md5" : "a5bb04bf90707f33b98e3c3c1ff2ea08"
+		}, 
+		"src/cocos/cocos2d/Cocos2dConstants.luac" : {
+			"md5" : "1f576ae9e635746e66aad8d2608074f9"
+		}, 
+		"src/cocos/cocos2d/deprecated.luac" : {
+			"md5" : "ea32295083b0280b11418d984d66a8dc"
+		}, 
+		"src/cocos/cocos2d/DeprecatedCocos2dClass.luac" : {
+			"md5" : "634f6d99cedd5ed8911c6c65c3d1d8f8"
+		}, 
+		"src/cocos/cocos2d/DeprecatedCocos2dEnum.luac" : {
+			"md5" : "cc7abe15f68dbdc848933b93b1daf3a1"
+		}, 
+		"src/cocos/cocos2d/DeprecatedCocos2dFunc.luac" : {
+			"md5" : "bbf88b0f1e099510a14521a703f6e0f6"
+		}, 
+		"src/cocos/cocos2d/DeprecatedOpenglEnum.luac" : {
+			"md5" : "d7513339588db52c4336c2d8d5472381"
+		}, 
+		"src/cocos/cocos2d/DrawPrimitives.luac" : {
+			"md5" : "d14d667929aba5383ad41d6f37cd5b71"
+		}, 
+		"src/cocos/cocos2d/functions.luac" : {
+			"md5" : "98a225897ef5f1c6193b3650022cc95e"
+		}, 
+		"src/cocos/cocos2d/json.luac" : {
+			"md5" : "1f40031154ab87dfa7e9e626215455d9"
+		}, 
+		"src/cocos/cocos2d/luaj.luac" : {
+			"md5" : "b1a1b5158574fe6a81719e87b2f26229"
+		}, 
+		"src/cocos/cocos2d/luaoc.luac" : {
+			"md5" : "0e7caa3a973610cd50adcd496a2ce91e"
+		}, 
+		"src/cocos/cocos2d/Opengl.luac" : {
+			"md5" : "1de086dd269c0b9655b68bfabaf41b23"
+		}, 
+		"src/cocos/cocos2d/OpenglConstants.luac" : {
+			"md5" : "aee75d7791df0eddcc0d6549a58739fe"
+		}, 
+		"src/cocos/cocosbuilder/CCBReaderLoad.luac" : {
+			"md5" : "da257401c6886b8f312078a37f3d2d83"
+		}, 
+		"src/cocos/cocosbuilder/DeprecatedCocosBuilderClass.luac" : {
+			"md5" : "c7a7fc82e3c470081f8ea7ef83728611"
+		}, 
+		"src/cocos/cocosdenshion/AudioEngine.luac" : {
+			"md5" : "15a004c9acc098aeff2a9efa22f8bd0e"
+		}, 
+		"src/cocos/cocosdenshion/DeprecatedCocosDenshionClass.luac" : {
+			"md5" : "e26ece21079c2be9116d35463d75004b"
+		}, 
+		"src/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.luac" : {
+			"md5" : "c482bac3e6f1e39040e607917a6a42ce"
+		}, 
+		"src/cocos/cocostudio/CocoStudio.luac" : {
+			"md5" : "69cce0ed27be2c1a923a003ff650a97c"
+		}, 
+		"src/cocos/cocostudio/DeprecatedCocoStudioClass.luac" : {
+			"md5" : "f6e168bed0c8675cb0c3202ed4dda4c8"
+		}, 
+		"src/cocos/cocostudio/DeprecatedCocoStudioFunc.luac" : {
+			"md5" : "8b23f2f807f2538ff7444ee301a2bc33"
+		}, 
+		"src/cocos/cocostudio/StudioConstants.luac" : {
+			"md5" : "f0e2461c342f20f9c9be1b57f8e6ac93"
+		}, 
+		"src/cocos/controller/ControllerConstants.luac" : {
+			"md5" : "3c61ee8ce6012dd6b2e5350181e92226"
+		}, 
+		"src/cocos/extension/DeprecatedExtensionClass.luac" : {
+			"md5" : "2507c609c79e386bac2aa19bb5ac62a3"
+		}, 
+		"src/cocos/extension/DeprecatedExtensionEnum.luac" : {
+			"md5" : "f15a489d12c00f023a6efbf1953ad60e"
+		}, 
+		"src/cocos/extension/DeprecatedExtensionFunc.luac" : {
+			"md5" : "297d9442e122a19efaaf73f4ce1f7280"
+		}, 
+		"src/cocos/extension/ExtensionConstants.luac" : {
+			"md5" : "f5ddd1059e8968b9bc914b0d80afcb06"
+		}, 
+		"src/cocos/framework/audio.luac" : {
+			"md5" : "c2fbebbc3ab4789ede9b2f18ea6c20bd"
+		}, 
+		"src/cocos/framework/components/event.luac" : {
+			"md5" : "473d5060577f4fc67119e8dde09f6403"
+		}, 
+		"src/cocos/framework/device.luac" : {
+			"md5" : "5fc7f8a600936c16307965a958652dca"
+		}, 
+		"src/cocos/framework/display.luac" : {
+			"md5" : "001ca4ad06d83fd07ce795b9447803e7"
+		}, 
+		"src/cocos/framework/extends/LayerEx.luac" : {
+			"md5" : "372a24669c6eac51d85f094c708fafda"
+		}, 
+		"src/cocos/framework/extends/MenuEx.luac" : {
+			"md5" : "c680a58b7fc3c11d3d198a5b4365388c"
+		}, 
+		"src/cocos/framework/extends/NodeEx.luac" : {
+			"md5" : "394bdc4bffbc40d662fd657ba998dc1f"
+		}, 
+		"src/cocos/framework/extends/SpriteEx.luac" : {
+			"md5" : "1d82844e0d663f2134cee1f7ac7103b7"
+		}, 
+		"src/cocos/framework/extends/UICheckBox.luac" : {
+			"md5" : "b40dce394c35a0d33576126be41c80d5"
+		}, 
+		"src/cocos/framework/extends/UIEditBox.luac" : {
+			"md5" : "ab8db84e34fe1355e3e2ab22d66587f5"
+		}, 
+		"src/cocos/framework/extends/UIListView.luac" : {
+			"md5" : "3ea79195298d8b307fbed4d84ffdcd90"
+		}, 
+		"src/cocos/framework/extends/UIPageView.luac" : {
+			"md5" : "d3c2d7bc7025fd5de2ec70d3f4d8a201"
+		}, 
+		"src/cocos/framework/extends/UIScrollView.luac" : {
+			"md5" : "7f0c6782d7bd63fbf0ed40368be56aec"
+		}, 
+		"src/cocos/framework/extends/UISlider.luac" : {
+			"md5" : "f5fd556490d4553ef80af1bcb6a4fa80"
+		}, 
+		"src/cocos/framework/extends/UITextField.luac" : {
+			"md5" : "ec83359df5514d28cf3abb2bbc955796"
+		}, 
+		"src/cocos/framework/extends/UIWidget.luac" : {
+			"md5" : "9748eba3235ca89de6f4a7047e1a4bf9"
+		}, 
+		"src/cocos/framework/init.luac" : {
+			"md5" : "6dbe91f52a115819fbcf5ccd5b6e2c7b"
+		}, 
+		"src/cocos/framework/package_support.luac" : {
+			"md5" : "3cb8a7e1492962beaaaffd6c34049d8b"
+		}, 
+		"src/cocos/framework/transition.luac" : {
+			"md5" : "23d5200f9a003ccf2da89a8f4fc68571"
+		}, 
+		"src/cocos/init.luac" : {
+			"md5" : "5f330f631fea350922be2cc0be4dc6e0"
+		}, 
+		"src/cocos/network/DeprecatedNetworkClass.luac" : {
+			"md5" : "a539b0cd77adc30b8c737f41b163f84e"
+		}, 
+		"src/cocos/network/DeprecatedNetworkEnum.luac" : {
+			"md5" : "5d18d60d681639c7c8cf81fd3fe690f1"
+		}, 
+		"src/cocos/network/DeprecatedNetworkFunc.luac" : {
+			"md5" : "5d461c7dc81f759d08495acfc82e4a33"
+		}, 
+		"src/cocos/network/NetworkConstants.luac" : {
+			"md5" : "9ed1d4fe1a1093ec36b72fdc0d7ea409"
+		}, 
+		"src/cocos/physics3d/physics3d-constants.luac" : {
+			"md5" : "f02fe16fbcf733cb66b5eadbf2b97551"
+		}, 
+		"src/cocos/spine/SpineConstants.luac" : {
+			"md5" : "9fd1096281b87405f11b4c31fd1dd7d5"
+		}, 
+		"src/cocos/ui/DeprecatedUIEnum.luac" : {
+			"md5" : "bb4341e7f147f0006fbd0fde4927a888"
+		}, 
+		"src/cocos/ui/DeprecatedUIFunc.luac" : {
+			"md5" : "0cbb11ec365be89aa2282270672b58bb"
+		}, 
+		"src/cocos/ui/experimentalUIConstants.luac" : {
+			"md5" : "5386f29ca622a7903ee034fbabd06e79"
+		}, 
+		"src/cocos/ui/GuiConstants.luac" : {
+			"md5" : "ba63d8bc1433f15d59a7ac9195f79b40"
+		}, 
+		"src/config.luac" : {
+			"md5" : "0a8800b29790d9df5edb60b698ff1a9e"
+		}, 
+		"src/libproto/action_pb.luac" : {
+			"md5" : "1e372ca5a67e4b455c1a9d79fbba9a53"
+		}, 
+		"src/libproto/data_pb.luac" : {
+			"md5" : "4f409248d55f38c237be86ee6d5171e3"
+		}, 
+		"src/libproto/msgmap.luac" : {
+			"md5" : "0401d1c70971a5ec26ea51ae197521f1"
+		}, 
+		"src/libtools/BString.luac" : {
+			"md5" : "59d439b5b773b15171d32fae78be1fbb"
+		}, 
+		"src/libtools/slaxdom.luac" : {
+			"md5" : "4f97db10fa86a5d173df4e9c2a52a9e9"
+		}, 
+		"src/libtools/slaxml.luac" : {
+			"md5" : "6178e89a2b8c080e611119caef614dac"
+		}, 
+		"src/main.luac" : {
+			"md5" : "360743f5ea4176888c244b51d4d6f0e4"
+		}, 
+		"src/packages/mvc/AppBase.luac" : {
+			"md5" : "0e6d5ed7059417b8eb640d3bc8e2e363"
+		}, 
+		"src/packages/mvc/init.luac" : {
+			"md5" : "3cdfd28b4951ec6de622e5a9ef3c1408"
+		}, 
+		"src/packages/mvc/ViewBase.luac" : {
+			"md5" : "6162f6ae5ba52dac170045e1223d028e"
+		}, 
+		"src/protobuf.luac" : {
+			"md5" : "f1b70e7992268e0b8e15c905ffbeead7"
+		}
+	},    
+	"searchPaths" : [    
+	]    
+}
